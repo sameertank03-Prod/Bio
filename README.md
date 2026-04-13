@@ -1,5 +1,5 @@
 Hey, I'm Sameer 👋
-Java Full-Stack Developer · Microservices · Open Source Enthusiast
+Java Full-Stack Engineer · Microservices · Open Source Enthusiast
 ☕ Java
 ⚡ Spring Boot
 ⚛ React
