@@ -1,7 +1,10 @@
-Hey, I'm Sameer 👋
-Java Full-Stack Engineer · Microservices · Open Source Enthusiast
-☕ Java
-⚡ Spring Boot
-⚛ React
-🦄 Kafka
-🐳 Docker
+Hey, I'm Sam 👋
+Java Full-Stack Engineer.
+I sunlight as a gladiator.
+Microservices · Open Source Enthusiast.
+☕ Java.
+⚡ Spring Boot.
+⚛ React.
+🦄 Kafka.
+🐳 Docker.
+
